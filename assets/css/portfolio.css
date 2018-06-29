@@ -1,4 +1,5 @@
 /* Background pattern from Toptal Subtle Patterns */
+/* CSS for Portfolio Page */
 
 
 body {
@@ -13,24 +14,22 @@ header {
     border-bottom: 1px solid #cccccc;
 }
 
-h1, h2 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
 h1 {
     background-color: #4aaaa5;
     color: white;
     text-align: center;
     padding: 2%;
     width: 23%;
-    margin-left: 75px;
+    margin-left: 225px;
     margin-bottom: -12px;
     box-shadow: 1px 1px 3px #4C4843;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
+
 .nav {
     float: right;
-    margin-right: 240px;
+    margin-right: 160px;
     margin-top: -40px;
     text-decoration: none;
     color: #777777;
@@ -45,41 +44,34 @@ a:hover {
     color: pink;
 }
 
-
-.maincontent {
-    width: 960px;
-    margin: 3%;
-    margin-left: 7%;
-    background-color: white;
-    color: #777777;
-    padding: 1.5%;
-    border: #dddddd;
-}
-
-#aboutme {
+h2 {
     color: #4aaaa5;
-    font-size: 30px;
-    margin-left: 2%;
-    margin-top: 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 29px;
+    margin-left: -70%;
+    margin-top: -65%;
+
 }
+.maincontent {
+    width: 300px;
+    height: 300px;
+    margin: 5%;
+    margin-left: 20%;
+    background-color: white;
+    padding: 20%;
+
+}
+
 #line {
+    width: 706px;
+    margin-left: -70%;
     color: #777777;
-}
-p {
-    font-family: Arial, Helvetica, sans-serif;
-
-}
-#bio-image {
-    border-color: black;
-    margin-left: 2%;
-    margin-bottom: 5%;
-
 }
 
 Footer {
     color: white;
     background-color: #666666;
-    margin-top: 10%;
+    margin-top: 20%;
     text-align: center;
     font-size: 12px;
     padding: 2%;
