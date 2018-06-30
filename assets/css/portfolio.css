@@ -5,7 +5,7 @@
 body {
     padding: 0;
     margin: 0;
-    background-image: url(file:///Users/laurenlapoint/Desktop/hackarea/basic-portfolio/assets/images/whirlpool.png);
+    background: url('../images/whirlpool.png');
 }
 
 header {
