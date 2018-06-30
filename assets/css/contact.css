@@ -1,11 +1,6 @@
 /* Background pattern from Toptal Subtle Patterns */
 /* CSS for Contact Page */
 
-/* Background pattern from Toptal Subtle Patterns */
-
-/* Background pattern from Toptal Subtle Patterns */
-
-
 body {
     background: url('../images/whirlpool.png');
 
@@ -61,11 +56,11 @@ a:hover {
     color: pink;
 }
 
-.main-content {
+.container {
     width: 960px;
-    margin: 20px auto;
+    margin: 50px auto;
     background: white;
-    border-bottom: 1px solid #cccccc;
+    border: 1px solid #cccccc;
 }
 
 #about-me {
@@ -76,8 +71,10 @@ a:hover {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-
-
+#line {
+    margin: 10px 10px;
+    color: #cccccc;
+}
 
 
 .footer {
