@@ -5,7 +5,7 @@
 body {
     padding: 0;
     margin: 0;
-    background: url('../images/whirlpool.png');
+    background: url('assets/images/whirlpool.png');
 }
 
 header {
