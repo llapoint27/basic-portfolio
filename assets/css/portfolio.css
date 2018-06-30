@@ -89,12 +89,13 @@ h2 {
 
 .pic-1 {
     position: absolute;
-    top: 175px;
-    left: 50px;
-    float: left;
+    top: 150px;
+    left: 150px;
 }
 
-.pic-2 {float: right;
+.pic-2 {
+    float: right;
+    margin-right: 200px;
 
 }
 
