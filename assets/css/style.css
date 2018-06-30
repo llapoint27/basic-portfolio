@@ -48,13 +48,28 @@ a:hover {
 
 .maincontent {
     width: 960px;
+    height: 475px;
     margin: 3%;
     margin-left: 7%;
+    margin-bottom: 10%;
     background-color: white;
     color: #777777;
     padding: 1.5%;
     border: #dddddd;
 }
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 35px;
+}
+
+#bio-image {
+    float: left;
+    margin-right: 3%;
+    margin-left: 2%;
+
+}
+
 
 #aboutme {
     color: #4aaaa5;
@@ -65,16 +80,7 @@ a:hover {
 #line {
     color: #777777;
 }
-p {
-    font-family: Arial, Helvetica, sans-serif;
 
-}
-#bio-image {
-    border-color: black;
-    margin-left: 2%;
-    margin-bottom: 5%;
-
-}
 
 Footer {
     color: white;
