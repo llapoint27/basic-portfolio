@@ -61,7 +61,7 @@ a:hover {
     height: 450px;
     margin: 50px auto;
     background: white;
-    border: 1px solid #cccccc;
+    border: 1px solid #dddddd;
     
     
 }
@@ -97,6 +97,7 @@ p {
     margin: 20px 15px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     line-height: 30px;
+    color: #777777;
 }
 
 

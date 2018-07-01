@@ -60,7 +60,7 @@ a:hover {
     width: 960px;
     margin: 50px auto;
     background: white;
-    border: 1px solid #cccccc;
+    border: 1px solid #dddddd;
     position: relative;
 }
 
@@ -78,42 +78,106 @@ h2 {
 }
 
 /* CSS for Portfolio Page: Body Content */
-
 .pic-1, .pic-2, .pic-3, .pic-4 {
     width: 200px;
     height: 200px;
     padding: 30px;
     box-shadow: 1px 1px 3px #4C4843;
-
 }
 
 .pic-1 {
     position: absolute;
-    top: 150px;
-    left: 150px;
+    left: 200px;
+    top: 120px;
+
+}
+
+#title-1 {
+    width: 20%;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+    padding: 15px;
+    position: absolute;
+    left: 220px;
+    top: 290px;
+}
+
+#title-1:hover {
+    background: pink;
 }
 
 .pic-2 {
-    float: right;
-    margin-right: 200px;
+    position: absolute;
+    right: 200px;
+    top: 120px;
+}
+
+#title-2 {
+    width: 20%;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 15px;
+    position: relative;
+    top: 205px;
+    left: 520px;
+}
+
+#title-2:hover {
+    background: pink;
 
 }
 
 .pic-3 {
+    position: relative;
+    left: 200px;
+    top: 300px;
+}
 
+#title-3 {
+    width: 20%;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 15px;
+    position: relative;
+    left: 220px;
+    top: 205px;
+
+}
+
+#title-3:hover {
+    background: pink;
 }
 
 .pic-4 {
+    position: relative;
+    left: 500px;
+    bottom: 7px;
+
 }
 
+#title-4 {
+    width: 20%;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 15px;
+    position: relative;
+    left: 520px;
+    bottom: 100px;
 
+}
 
-
-
-
-
-
-/* Check header and footer positions */
+#title-4:hover {
+    background: pink;
+}
 
 
 .footer {
