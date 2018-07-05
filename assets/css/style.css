@@ -109,6 +109,10 @@ p {
     color: #777777;
 }
 
+.p2 {
+    text-align: center;
+}
+
 /* CSS for Portfolio Page */
 * {
     box-sizing: border-box;
@@ -150,7 +154,18 @@ img {
     position: absolute;
 
 }
-
+.china:hover {
+    background: pink;
+}
+.portugal:hover {
+    background: pink;
+}
+.iceland:hover {
+    background: pink;
+}
+.vietnam:hover {
+    background: pink;
+}
 .column {
     float: left;
     width: 30%;
